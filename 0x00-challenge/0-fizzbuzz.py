@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-"""
-FizzBuzz
+"""FizzBuzz
+fixing:
+changing the order of the if conditions
+in order to match the corner cases first
 """
 import sys
 
